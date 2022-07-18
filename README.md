@@ -1,6 +1,9 @@
 # Booking Flight API
 
-Add 'npm i nodemailer' to your node app
+
+Visit mail-test.js for nodemailer implementation
+I gitignored the Env file to avoid my details
+Add <b>npm i nodemailer</b> to your node app to use Nodemailer.
 
 [Visit Official Link for nodemailer here](https://www.npmjs.com/package/nodemailer)
 
