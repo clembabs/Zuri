@@ -1,8 +1,8 @@
 # Booking Flight API
 
-<p> add 'npm i nodemailer' to your node app<p>
-[Visit Official Link for nodemailer here]
-(https://www.npmjs.com/package/nodemailer)
+Add 'npm i nodemailer' to your node app
+
+[Visit Official Link for nodemailer here](https://www.npmjs.com/package/nodemailer)
 
 If you are using a google account like me, you need to allow access for the app. [Link to How to allow access](https://support.google.com/accounts/answer/185833#)
 
